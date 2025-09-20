@@ -120,11 +120,26 @@ This project demonstrates the implementation of mathematical problem solutions u
 - Mathematical notation rendering
 
 ## Screenshots
-Screenshots of rendered output should be captured for each solution showing:
-- Complete mathematical progression
-- Proper template structure maintenance
-- Highlighted final answers
-- Visual element consistency
+
+### Trigonometry Solutions (Template 1)
+![Trigonometry Problem 1](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Trignometry%20Pronlem%201.jpg)
+*Problem 1: Sin A + Cos B using 5-12-13 Pythagorean triplet*
+
+![Trigonometry Problem 2](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Trignometry%20Pronlem%202.jpg)
+*Problem 2: Tan A + Cot B using 8-15-17 Pythagorean triplet*
+
+### Compound Interest Solutions (Template 2)
+![Compound Interest Problem 1](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Compound%20Intrest%20Problem%201.jpg)
+*Problem 1: Finding rate of interest (₹8000 → ₹9800 in 2 years)*
+
+![Compound Interest Problem 2](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Compound%20Intrest%20Problem%202.jpg)
+*Problem 2: Finding principal amount (₹12100 at 10% for 2 years)*
+
+These screenshots demonstrate:
+- Complete mathematical progression with step-by-step solutions
+- Proper template structure maintenance without modifications
+- Highlighted final answers in green boxes
+- Visual element consistency across all implementations
 
 ---
 
