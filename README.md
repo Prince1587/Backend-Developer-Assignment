@@ -26,26 +26,21 @@ This project demonstrates the implementation of mathematical problem solutions u
 
 ## Solutions Implemented
 
-### Template 1 (Trigonometry) - 3 Solutions
+### Template 1 (Trigonometry) - 2 Solutions
 
-#### Problem 1: Find Sin A + Cos B
-- **Pythagorean Triplet**: 5-12-13
-- **Calculation**: Sin A = 5/13, Cos B = 5/13
-- **Result**: 10/13
+#### Problem 1: Find Cos A + Sin C
+- **Pythagorean Triplet**: 9-12-15
+- **Calculation**: Cos A = 12/15, Sin C = 12/15
+- **Result**: 8/5
 
 #### Problem 2: Find Tan A + Cot B
 - **Pythagorean Triplet**: 8-15-17
 - **Calculation**: Tan A = 8/15, Cot B = 8/15
 - **Result**: 16/15
 
-#### Problem 3: Find Cos A + Sin C
-- **Pythagorean Triplet**: 9-12-15
-- **Calculation**: Cos A = 12/15, Sin C = 12/15
-- **Result**: 8/5
+### Template 2 (Compound Interest) - 2 Solutions
 
-### Template 2 (Compound Interest) - 3 Solutions
-
-#### Assignment Example: Find Rate of Interest
+#### Problem 1: Find Rate of Interest
 - **Given**: Principal = ₹5000, Amount = ₹6050, Time = 2 years
 - **Solution Steps**:
   - 5000[1 + r/100]² = 6050
@@ -53,13 +48,9 @@ This project demonstrates the implementation of mathematical problem solutions u
   - [1 + r/100] = 11/10
 - **Result**: r = 10%
 
-#### Problem 1: Find Rate of Interest
+#### Problem 2: Find Rate of Interest
 - **Given**: Principal = ₹8000, Amount = ₹9800, Time = 2 years
 - **Result**: r = 16.67%
-
-#### Problem 2: Find Principal Amount
-- **Given**: Amount = ₹12100, Rate = 10%, Time = 2 years
-- **Result**: P = ₹10000
 
 ## Key Features
 
@@ -122,18 +113,20 @@ This project demonstrates the implementation of mathematical problem solutions u
 ## Screenshots
 
 ### Trigonometry Solutions (Template 1)
-![Trigonometry Problem 1](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Trignometry%20Pronlem%201.jpg)
-*Problem 1: Sin A + Cos B using 5-12-13 Pythagorean triplet*
 
-![Trigonometry Problem 2](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Trignometry%20Pronlem%202.jpg)
+*Problem 1: Cos A + Sin C using 9-12-15 Pythagorean triplet*
+![Trigonometry Problem 1](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Trignometry%20Pronlem%201.jpg)
+
 *Problem 2: Tan A + Cot B using 8-15-17 Pythagorean triplet*
+![Trigonometry Problem 2](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Trignometry%20Pronlem%202.jpg)
 
 ### Compound Interest Solutions (Template 2)
-![Compound Interest Problem 1](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Compound%20Intrest%20Problem%201.jpg)
-*Problem 1: Finding rate of interest (₹8000 → ₹9800 in 2 years)*
 
+*Problem 1: Finding rate of interest (₹5000 → ₹6050 in 2 years)*
+![Compound Interest Problem 1](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Compound%20Intrest%20Problem%201.jpg)
+
+*Problem 2: Finding rate of interest (₹8000 → ₹9800 in 2 years)*
 ![Compound Interest Problem 2](https://github.com/Prince1587/Backend-Developer-Assignment/blob/main/Screenshots/Compound%20Intrest%20Problem%202.jpg)
-*Problem 2: Finding principal amount (₹12100 at 10% for 2 years)*
 
 These screenshots demonstrate:
 - Complete mathematical progression with step-by-step solutions
